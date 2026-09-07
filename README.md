@@ -1,6 +1,4 @@
-from pathlib import Path
 
-readme = r"""# ☕ Object-Oriented Programming Practical Guide — Java
 
 <div align="center">
 
